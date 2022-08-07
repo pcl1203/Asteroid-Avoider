@@ -906,6 +906,7 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     UNet: 1
+    Unity Ads: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -919,11 +920,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 1
-  cloudProjectId: 
+  cloudProjectId: 96c0dfbf-fda3-4e92-8c35-5ba674ee3f95
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Asteroid Avoider (1)
+  organizationId: unity_fe22d05da47eb4142a80
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
